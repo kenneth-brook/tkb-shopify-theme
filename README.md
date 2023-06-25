@@ -1,3 +1,4 @@
-# shopify-scratch-template
+# tkb-shopify-theme
 
-## Creating a template containing the absolute bare minimum to opperate as a clean starting point to build Shopify themes
+### Custom Store Front Build for TKB Custom Design
+- Will also include feeds from Sanity.io
